@@ -2,7 +2,7 @@
 ---
 ### My name is Mohamad Tadayon , Im a Frontend Developer 
 
-### Lets make some project :)
+### Lets make some projects :)
 
 ## My skills :
 
