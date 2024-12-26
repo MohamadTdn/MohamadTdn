@@ -10,13 +10,10 @@
 
 ## Packages that i worked with :
 
-![axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
-
+# My Activity
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadTdn&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-# My Activity
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=MohamadTdn&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 # My social pages :
 
 ![mohamad_tdn](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
